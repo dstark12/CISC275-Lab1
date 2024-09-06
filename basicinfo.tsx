@@ -9,4 +9,4 @@ const yourMajor : String = "Computer Science";
 let classification : String = "Senior";
 let oneExcite : String = "Learning about what the computer science industry";
 let anyConcerns : String = "Nothing";
-let funFact : String = "I like to fish";
+let funFact : String = "I like to fish.";
